@@ -30,4 +30,8 @@ From the 334 patients, 330 are women and 4 are men. Almost a 25% of patients do 
 
 The most common stage in which patients have the diagnosis is stage II. 
 
+Most of the patients (70%) are facing infiltrating ductal carcinoma.
+
+The most popular surgery type is Modified Radical Mastectomy and other type of surgery that is not mentioned.
+
 
