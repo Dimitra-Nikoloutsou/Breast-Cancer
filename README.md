@@ -22,5 +22,12 @@ The dashboard is interactive and was done in PowerBI.
 
 <h1> INSIGHTS </h1>
 
+In the survey there are 334 patients.
+
+The average age of patients is 58,89. People from their 40s to 60s are at greater risk.
+
+From the 334 patients, 330 are women and 4 are men. Almost a 25% of patients do not survive.
+
+
 
 
