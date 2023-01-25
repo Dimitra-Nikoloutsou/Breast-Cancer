@@ -28,6 +28,6 @@ The average age of patients is 58,89. People from their 40s to 60s are at greate
 
 From the 334 patients, 330 are women and 4 are men. Almost a 25% of patients do not survive.
 
-
+The most common stage in which patients have the diagnosis is stage II. 
 
 
